@@ -1,1 +1,9 @@
-git init
+git init - inizializza un repository vuoto
+
+git status - visualizza lo stato del repositiry
+
+git add <nome file> - aggiungo file al controllo di versione
+
+git log
+
+git commit -m "..."
